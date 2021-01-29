@@ -67,5 +67,6 @@ node_modules/
 
 
 TODO
-src/js/
-src/scss/
+src/
+# src/js/
+# src/scss/
