@@ -118,7 +118,7 @@ window.onload = function(){
 			
 			var box = new Sprite (365,366);
 			box.image = core.assets['./img/box.png'];
-			box.x =1600;
+			box.x = 1600;
 			box.y = 150;
 			box.scaleX = 0.3;
 			box.scaleY = 0.27;
